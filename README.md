@@ -1,4 +1,4 @@
-Personal Blog
+Personal Blog Link: https://thalescustodio.github.io
 
 Repository of my personal blog built with Hugo, hosted on GitHub.
 Project
