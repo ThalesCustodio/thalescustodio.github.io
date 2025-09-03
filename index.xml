@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thales Custodio Blog</title>
+    <title>Ínicio on Custódio Blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Thales Custodio Blog</description>
+    <description>Recent content in Ínicio on Custódio Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Init Test Page</title>
+      <link>http://localhost:1313/posts/init-test-post/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/init-test-post/</guid>
+      
+      <description>Welcome to my first post on Hugo! 🚀
+This is a simple example of how to write in Markdown.
+You can write lists Add bold or italic text Insert links like Hugo Docs </description>
+      
+    </item>
+    
   </channel>
 </rss>
