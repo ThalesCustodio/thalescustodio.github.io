@@ -8,15 +8,36 @@
     <language>pt-br</language>
     <lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Init Test Page</title>
-      <link>http://localhost:1313/posts/init-test-post/</link>
+      <title>Nada para ver aqui</title>
+      <link>http://localhost:1313/posts/test-post/</link>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/init-test-post/</guid>
+      <guid>http://localhost:1313/posts/test-post/</guid>
       
-      <description>Welcome to my first post on Hugo! 🚀
-This is a simple example of how to write in Markdown.
-You can write lists Add bold or italic text Insert links like Hugo Docs </description>
+      <description>Página criada para teste
+Em manutenção..</description>
+      
+    </item>
+    
+    <item>
+      <title>Currículo</title>
+      <link>http://localhost:1313/curriculo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/curriculo/</guid>
+      
+      <description>HABILIDADES TÉCNICAS: Segurança da Informação: Conhecimento dos fundamentos e boas práticas de frameworks populares, como ISO 27001, NIST CSF, MITRE ATT&amp;amp;CK, e metodologias de pentest (reconhecimento, exploração, pós-exploração). Ferramentas de Segurança: Wazuh, Burp Suite, Metasploit, Docker, VMware, Wireshark, Tcpdump, Nmap. Redes: Familiaridade com protocolos TCP/IP, UDP, DNS, DHCP, ARP, NAT e ICMP; configuração de VLANs, regras de firewalls, roteamento, subnetting e análise de tráfego. Cloud: Noções de AWS (IAM, EC2, S3, Security Groups); criação e gerenciamento de usuários, grupos e permissões no IAM; políticas de acesso baseadas em roles; boas práticas de controle de identidade e autenticação multifator.</description>
+      
+    </item>
+    
+    <item>
+      <title>Minha jornada em CyberSec. 🚀</title>
+      <link>http://localhost:1313/sobre-mim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sobre-mim/</guid>
+      
+      <description>Primeiro contato que tive com cibersegurança foi quando eu tinha 15 anos. Durante essa época, fiquei muito interessado em wireless hacking, devido a todos os dias, quando meu pai estava indo dormir ele desligava o roteador de casa, para eu não ficar jogando de madrugada. Então, comecei a pesquisar sobre wireless hacking pelo YouTube e aprendi bastante sobre vulnerabilidades em roteadores, como: ataques contra WPS, força bruta, evil twin, etc. Através de meus estudos eu consegui descobrir a senha de várias redes wireless ao meu redor, sem perceber que isso também era ilegal.</description>
       
     </item>
     
