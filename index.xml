@@ -26,7 +26,7 @@ Em manutenção..</description>
       
       <guid>http://localhost:1313/curriculo/</guid>
       
-      <description>HABILIDADES TÉCNICAS: Segurança da Informação: Conhecimento dos fundamentos e boas práticas de frameworks populares, como ISO 27001, NIST CSF, MITRE ATT&amp;amp;CK, e metodologias de pentest (reconhecimento, exploração, pós-exploração). Ferramentas de Segurança: Wazuh, Burp Suite, Metasploit, Docker, VMware, Wireshark, Tcpdump, Nmap. Redes: Familiaridade com protocolos TCP/IP, UDP, DNS, DHCP, ARP, NAT e ICMP; configuração de VLANs, regras de firewalls, roteamento, subnetting e análise de tráfego. Cloud: Noções de AWS (IAM, EC2, S3, Security Groups); criação e gerenciamento de usuários, grupos e permissões no IAM; políticas de acesso baseadas em roles; boas práticas de controle de identidade e autenticação multifator.</description>
+      <description>HABILIDADES TÉCNICAS: Monitoramento e Operações: Experiência prática em análise de logs e detecção de anomalias usando LimaCharlie (SIEM); Noções básicas de Zabbix. Segurança da Informação: Conhecimento dos fundamentos e boas práticas de frameworks populares, como ISO 27001, NIST CSF, MITRE ATT&amp;amp;CK, e metodologias de pentest (reconhecimento, exploração, pós-exploração). Infraestrutura e Rede: Infraestrutura e Rede: Familiaridade com firewalls Cisco, regras de acesso, protocolos TCP/IP, UDP, DNS, DHCP, ARP, NAT e ICMP; configuração de VLANs e análise de tráfego com Wireshark e Tcpdump; experiência em ambientes virtualizados com VMware e Docker.</description>
       
     </item>
     
