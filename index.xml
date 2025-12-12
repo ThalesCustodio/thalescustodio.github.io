@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ínicio on Custódio Blog</title>
+    <link>https://thalescustodio.github.io/</link>
+    <description>Recent content in Ínicio on Custódio Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://thalescustodio.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nada para ver aqui</title>
+      <link>https://thalescustodio.github.io/posts/test-post/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://thalescustodio.github.io/posts/test-post/</guid>
+      
+      <description>Página criada para teste
+Em manutenção..</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thalescustodio.github.io/sobre-mim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thalescustodio.github.io/sobre-mim/</guid>
+      
+      <description>title = &amp;lsquo;Minha jornada em CyberSec. 🚀&amp;rsquo;
+Primeiro contato que tive com cibersegurança foi quando eu tinha 15 anos. Durante essa época, fiquei muito interessado em wireless hacking, devido a todos os dias, quando meu pai estava indo dormir ele desligava o roteador de casa, para eu não ficar jogando de madrugada. Então, comecei a pesquisar sobre wireless hacking pelo YouTube e aprendi bastante sobre vulnerabilidades em roteadores, como: ataques contra WPS, força bruta, evil twin, etc.</description>
+      
+    </item>
+    
+    <item>
+      <title>Meus Troféus 🏆!</title>
+      <link>https://thalescustodio.github.io/certificados/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thalescustodio.github.io/certificados/</guid>
+      
+      <description>CERTIFICADOS E CURSOS: Dominando Zabbix do Básico ao Avançado cPanel Professional Certification (CPP) Google Cybersecurity Professional Certificate (Digital Defense Institute) - SYWTBSA SOC Core Skills w/ John Strand Workshop: Introduction to Cloud Security with Beau Bullock (UNIVESP) Pensamento Computacional com Python (UNIVESP) Segurança Cibernética: do ataque à defesa </description>
+      
+    </item>
+    
+  </channel>
+</rss>

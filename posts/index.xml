@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Custódio Blog</title>
+    <link>https://thalescustodio.github.io/posts/</link>
+    <description>Recent content in Posts on Custódio Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 03 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://thalescustodio.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nada para ver aqui</title>
+      <link>https://thalescustodio.github.io/posts/test-post/</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://thalescustodio.github.io/posts/test-post/</guid>
+      
+      <description>Página criada para teste
+Em manutenção..</description>
+      
+    </item>
+    
+  </channel>
+</rss>
